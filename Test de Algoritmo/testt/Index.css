@@ -1,0 +1,31 @@
+body{
+background-color: aqua;
+}
+h1{
+  border-radius: 15px;
+  border: 5px solid black;
+  background-color: #3EB489; 
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  margin-bottom: 45px;
+}
+.opcion{
+display: flex;
+justify-content: center;
+margin-bottom: 50px;
+margin-top: 20px;
+font-size: 25px;
+background-color: bisque; width:300px;
+border-radius: 15px;
+border: 5px solid black;
+color: black
+}
+div{
+  display: flex;
+  justify-content: center;
+}
+#cabezera1{
+display: flex;
+justify-content: center;
+}
